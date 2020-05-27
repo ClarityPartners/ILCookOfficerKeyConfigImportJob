@@ -1,0 +1,18 @@
+﻿<Job JobProcessID="5859" JobID="100149" Pri="1" Descr="File Transform Template" UserID="1" ProductID='1' TSQ='2013-11-27 18:28:19' TSST='2013-11-27 18:28:20' NumOfTasks='1'>
+  <Tasks>
+    <Task ID="100116"/>
+  </Tasks>
+  <Params>
+    <Input>
+      <Task ID="100116">
+        <Params InputFilePath="C:\Users\a.carpio\Desktop\OfficerKeyConfigFiles\Inbound" 
+                OutputFilePath="C:\Users\a.carpio\Desktop\OfficerKeyConfigFiles\Report" 
+                ProcessedFilePath="C:\Users\a.carpio\Desktop\OfficerKeyConfigFiles\Processed"/>
+      </Task>
+    </Input>
+    <Output>
+      <Task ID="100116"/>
+    </Output>
+    <Params />
+  </Params>
+</Job>

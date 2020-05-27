@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package name="ILCookOfficerKeyConfigImportJob-APP" version="1.0.0.0" priority="32000" xmlns:com="com" xmlns:gac="gac" xmlns:iis="iis" xmlns:atlas="atlas">
+  <!-- Deploy .dll to server -->
+  <com:server>
+    <asset source="Binary\ILCookOfficerKeyConfigImportJob.dll"
+           target="\CustomExtensions\Binary\JobProcessing\ILCookOfficerKeyConfigImportJob.dll"
+           name="ILCookOfficerKeyConfigImportJob"
+           version="1.0.0.0"/>
+  </com:server>
+
+  <!-- Web Files -->
+  <asset source="Webs\ILCookOfficerKeyConfigImportJobParms.htm"
+         target="\CustomExtensions\Webs\Infrastructure\JobProcessing\ParamModals\ILCookOfficerKeyConfigImportJobParms.htm"
+         name="ILCookOfficerKeyConfigImportJobParms"
+         version="1.0.0.0"/>
+</package>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package name="ILCookOfficerKeyConfigImportJob-DB" version="1.0.0.0" xmlns:atlas="atlas">
+  <atlas:job id="a0d6a3b0-257b-43e0-9cd2-fad1b9192beb"
+             word="ILCkOfcrKeyConfigJob"
+             desc="ILCookOfficerKeyConfigImportJob"
+             priority="1"
+             restartable="1"
+             systemjob="1"
+             productid="2"
+             registerdir="true">
+    <jobtask jobtaskid="b02daeee-c2fd-4715-83f7-d6cd5b84003a"
+                   word="ILCkOfcrKeyConfigJob"
+                   desc="ILCookOfficerKeyConfigImportJob"
+                   jobtaskcategorykey="DATA"
+                   programid="ILCookOfficerKeyConfigImportJob.JobTask"
+                   parametersurl="/CustomExtensions/Infrastructure/JobProcessing/ParamModals/ILCookOfficerKeyConfigImportJobParms.htm"
+                   parameterswidth="480"
+                   parametersheight="160"
+                   publicaccess="true"
+                   taskorder="1"
+                   successnextactionkey="E"
+                   failurenextactionkey="E"
+                   registerdir="true"/>
+  </atlas:job>
+</package>

@@ -1,0 +1,7 @@
+C:\Source\Officer Key Configuration Import Job\Officer Key Configuration Import Job\PublishedIMS\Binary\ILCookOfficerKeyConfigImportJob.dll
+C:\Source\Officer Key Configuration Import Job\Officer Key Configuration Import Job\PublishedIMS\Binary\ILCookOfficerKeyConfigImportJob.pdb
+C:\Source\Officer Key Configuration Import Job\Officer Key Configuration Import Job\FileJobTemplate\obj\Debug\ILCookOfficerKeyConfigImportJob.csprojAssemblyReference.cache
+C:\Source\Officer Key Configuration Import Job\Officer Key Configuration Import Job\FileJobTemplate\obj\Debug\ILCookOfficerKeyConfigImportJob.csproj.CoreCompileInputs.cache
+C:\Source\Officer Key Configuration Import Job\Officer Key Configuration Import Job\FileJobTemplate\obj\Debug\ILCookOfficerKeyConfigImportJob.csproj.CopyComplete
+C:\Source\Officer Key Configuration Import Job\Officer Key Configuration Import Job\FileJobTemplate\obj\Debug\ILCookOfficerKeyConfigImportJob.dll
+C:\Source\Officer Key Configuration Import Job\Officer Key Configuration Import Job\FileJobTemplate\obj\Debug\ILCookOfficerKeyConfigImportJob.pdb
